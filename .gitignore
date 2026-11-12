@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode / SwiftPM
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+.swiftpm/xcode/xcuserdata/
+.swiftpm/configuration/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Build outputs
+build/
+/tmp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Your own sticks and captures (keep them local)
+fixtures/sticks/*
+!fixtures/sticks/.gitkeep

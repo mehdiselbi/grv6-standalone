@@ -1,0 +1,2 @@
+Fixtures copied unmodified from https://github.com/Holzhaus/rekordcrate (data/complete_export/demo_tracks and data/pdb/num_rows), MPL-2.0.
+Real rekordbox exports used to test our own reader (rblib.cpp). Owner's own sticks go in fixtures/sticks.
